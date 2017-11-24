@@ -4,3 +4,4 @@ if turn_count(board).each == board
   counter +=1
 else puts "no"
 end
+end
