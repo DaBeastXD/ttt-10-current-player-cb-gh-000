@@ -1,4 +1,5 @@
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 def turn_count(board)
-counter = 0
+if turn_count(board).each == board
+  counter +=1 
 end
